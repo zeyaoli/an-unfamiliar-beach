@@ -2,6 +2,8 @@
 
 An unfamiliar beach is a pure HTML and CSS website that visualizes Bei Dao's poem "An Unfamiliar Beach 陌生的海滩". This is the first assignment of Dynamic Web Development, Spring 2020
 
+![Screenshots 1](https://github.com/zeyaoli/an-unfamiliar-beach/blob/master/screenshots/hypertext-1.png)
+
 ## About
 
 An unfamiliar beach is a website that visualizes Bei Dao's poem "An Unfamiliar Beach 陌生的海滩". It only uses HTML and CSS to make. The website is made for the first assignment of Dynamic Web Development, Spring 2020 @ NYU ITP
@@ -31,6 +33,10 @@ I still kinda wanted to do something with emojis but when I placed a bunch of em
 Then I searched one of my favorite poet, Bei Dao's poem. Bei Dao is a contemporary Chinese poet. I found a poem that I like ["An Unfamiliar Beach"](http://wenxue.chnart.com/index.php?m=content&c=index&a=show&catid=182&id=5148) that has English translation so I decided to build on top of it.
 
 I LOVE the idea of having pages taking the whole screen size (actually my portfolio page has the same technique that I used here). The website is currently divided into three "pages" yet all these are in the same page. Users don't have click anywhere to get to another link. The first page is the super minimal title page. Then I designed two pages for two sections of the poem (which I do want to keep expending for a bit). Each section I designed based on the text and tried to visualize the phenomenon that I interpret.
+
+![Screenshots 2](https://github.com/zeyaoli/an-unfamiliar-beach/blob/master/screenshots/hypertext-2.png)
+
+![Screenshots 3](https://github.com/zeyaoli/an-unfamiliar-beach/blob/master/screenshots/hypertext-3.png)
 
 ### Some techniques that I use for the page: 
 
