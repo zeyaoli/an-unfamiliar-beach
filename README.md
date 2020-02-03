@@ -42,7 +42,7 @@ I LOVE the idea of having pages taking the whole screen size (actually my portfo
 
 [Gradient Animation](https://www.gradient-animator.com/)
 
-Radical / Linear Gradient -> I use Figma to generate it and paste the code
+Radical / Linear Gradient -> I use [Figma](https://figma.com/) to generate it and paste the code
 
 Hover and expand the textbox: Use transition to change the height once hover and set overflow to hidden. Also be careful with the width. 
 
